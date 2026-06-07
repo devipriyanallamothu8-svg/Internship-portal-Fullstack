@@ -1,2 +1,16 @@
-# Internship-portal-Fullstack
-Full Stack Internship Portal using React, Node.js, Express and MongoDB
+# Internship Portal Full Stack Project
+
+## Features
+- Student Login & Registration
+- Internship Listings
+- Apply for Internships
+- Admin Dashboard
+
+## Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+## Author
+Devipriya Nallamothu
